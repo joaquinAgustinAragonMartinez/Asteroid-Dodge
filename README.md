@@ -1,1 +1,1 @@
-en el dia de hoy y en el de ayer que me olvide de subir el progreso termine una version basica del juego que venia haciendo hace un tiempo que ahora si no tira error y funciona bien
+en el dia de hoy y en el de ayer(que me olvide de subir actualizacion pero solo pasaron unas pocas horas despues de las 12)termine una version basica del juego que venia haciendo hace un tiempo que ahora si no tira error y funciona bien
